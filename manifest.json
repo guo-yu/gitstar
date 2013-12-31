@@ -1,0 +1,19 @@
+{
+  "name": "gitstar",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "a github star enhancement extension user script.",
+  "content_scripts": [{
+    "matches": [
+      "http://*.github.com/*"
+    ],
+    "js": [
+      "libs/jquery-1.9.1.min.js",
+      "src/gitstar.js"
+    ],
+    "run_at": "document_end"
+  }],
+  "icons": {
+    "16": "images/16.png"
+  }
+}
