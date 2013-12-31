@@ -1,4 +1,4 @@
-## ![npm](https://badge.fury.io/js/gitstar.png) gitstar 
+## ![gitstar](http://ww3.sinaimg.cn/large/61ff0de3gw1ec2yx3tuqhj200q00q0pu.jpg) gitstar 
 
 a github star enhancement extension user script.
 
