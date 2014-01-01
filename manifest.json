@@ -5,7 +5,7 @@
   "description": "a github star enhancement extension user script.",
   "content_scripts": [{
     "matches": [
-      "http://*.github.com/*"
+      "https://*.github.com/*"
     ],
     "js": [
       "libs/jquery-1.10.2.min.js",
